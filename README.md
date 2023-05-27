@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Dipanwita Saha</h1>
 <h3 align="center">I am a student of computer science and engineering at American International University-Bangladesh. Currently, pursuing my BSc in CSE. Working interest in web technologies, software development, and UI/UX design. Reading novels and gardening is one of my favourite hobby.</h3>
 <hr>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/chipp/collections/572323-coding-gifs">
 
 - 🌱 I’m currently learning **Node JS**
 
