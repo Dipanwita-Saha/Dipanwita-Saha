@@ -1,7 +1,7 @@
-![dipa_banner](https://github.com/Dipanwita-Saha/Dipanwita-Saha/assets/67962405/aadd61d8-c346-452a-b673-4d9f2a79180c)
+![dipa_banner](https://github.com/Dipanwita-Saha/Dipanwita-Saha/assets/67962405/3a2f19d2-21bc-4007-96bb-40b4868cf58d)
 <h1 align="center">Hi 👋, I'm Dipanwita Saha</h1>
 <h3 align="center">A dedicated and passionate software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+gif+programming+gif&tbm=isch&ved=2ahUKEwj_mrHO6pX_AhWyidgFHf4JBm8Q2-cCegQIABAA&oq=animated+gif+progra&gs_lcp=CgNpbWcQARgAMgUIABCABDIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBwgAEBgQgAQ6BAgjECdQrQhYshxg2ytoAHAAeACAAbwCiAHoEpIBBzAuNC42LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=QiRyZP_xMLKT4t4P_pOY-AY&bih=931&biw=1920#imgrc=2cDstkyrK89TEM">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/chipp/collections/572323-coding-gifs">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanwita-saha&label=Profile%20views&color=0e75b6&style=flat" alt="dipanwita-saha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipanwita-saha" alt="dipanwita-saha" /></a> </p>
