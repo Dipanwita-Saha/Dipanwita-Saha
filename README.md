@@ -1,6 +1,6 @@
 ![dipa_banner](https://github.com/Dipanwita-Saha/Dipanwita-Saha/assets/67962405/3a2f19d2-21bc-4007-96bb-40b4868cf58d)
 <h1 align="center">Hi 👋, I'm Dipanwita Saha</h1>
-<h3 align="center">I'm at the final stage of my bachelor's degree in computer science and engineering at American International University-Bangladesh. I have improved my knowledge of C++, Java, C#, PHP, JavaScript, and other languages. I have a dedication to developing effective and user-friendly software solutions.</h3>
+<h3 align="center" >I'm at the final stage of my bachelor's degree in computer science and engineering at American International University-Bangladesh. I have improved my knowledge of C++, Java, C#, PHP, JavaScript, and other languages. I have a dedication to developing effective and user-friendly software solutions.</h3>
 <hr>
 
 - 🎪 I’m currently learning **Node JS**
@@ -49,10 +49,10 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   </p>
 <hr>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanwita-saha&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dipanwita-saha" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanwita-saha&show_icons=true&locale=en&layout=compact&&theme=dracula" alt="dipanwita-saha" /></p>
 <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanwita-saha&show_icons=true&locale=en&theme=dracula" alt="dipanwita-saha" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanwita-saha&show_icons=true&locale=en&&theme=dracula" alt="dipanwita-saha" /></p>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanwita-saha&&theme=dracula" alt="dipanwita-saha" /></p>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dipanwita-saha&label=Profile%20views&color=0e75b6&style=flat" alt="dipanwita-saha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dipanwita-saha&label=Profile%20views&color=0e75b6" alt="dipanwita-saha" /> </p>
