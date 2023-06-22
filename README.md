@@ -12,9 +12,10 @@
 
 <hr>
 <samp>
+  
 - 🎪 I’m currently learning **Node JS**
 
-- 💬 Ask me about **C#, ASP .Net**
+- 💬 Ask me about **Java, C#, ASP .Net**
 
 - 🚀 How to reach me **dipanwitasaha7009@gmail.com**
 
