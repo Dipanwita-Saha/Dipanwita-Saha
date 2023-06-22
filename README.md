@@ -1,8 +1,17 @@
-![dipa_banner](https://github.com/Dipanwita-Saha/Dipanwita-Saha/assets/67962405/3a2f19d2-21bc-4007-96bb-40b4868cf58d)
-<h1 align="center">Hi 👋, I'm Dipanwita Saha</h1>
-<h3 align="center" >I'm at the final stage of my bachelor's degree in computer science and engineering at American International University-Bangladesh. I have improved my knowledge of C++, Java, C#, PHP, JavaScript, and other languages. I have a dedication to developing effective and user-friendly software solutions.</h3>
-<hr>
+<p align="center"><img align="center" height="250" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/></p>
+<h1 align="center">
+  <samp>
+    Hi , I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Dipanwita Saha</a></b>.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</samp>
+</h1>
 
+ <samp>
+   I'm at the final stage of my bachelor's degree in computer science and engineering at American International University-Bangladesh. I have improved my knowledge of C++, Java, C#, PHP, JavaScript, and other languages. I have a dedication to developing effective and user-friendly software solutions.
+
+</samp>
+
+<hr>
+<samp>
 - 🎪 I’m currently learning **Node JS**
 
 - 💬 Ask me about **C#, ASP .Net**
@@ -10,15 +19,16 @@
 - 🚀 How to reach me **dipanwitasaha7009@gmail.com**
 
 - ❄️ My hobbies **Reading Book and Gardening..**
+</samp>
 <hr>
-<h3>Message me---</h3>
+<h3><samp>Message me---</samp></h3>
 <p align="center">
-<a href="https://linkedin.com/in/dipanwita saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipanwita saha" height="30" width="40" /></a>
-<a href="https://fb.com/dipanwita saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipanwita saha" height="30" width="40" /></a>
-<a href="https://instagram.com/d_dipanwita_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_dipanwita_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dipanwita saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dipanwita Saha Linked In" height="30" width="40" /></a>
+<a href="https://fb.com/dipanwita saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipanwita saha Facebook" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Dipanwita-Saha-9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="Dipanwita Saha Research gate" height="30" width="40" /></a>
 </p>
 <hr>
-<h3 >Languages---</h3>
+<h3 ><samp>Languages---</samp></h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -32,7 +42,7 @@
   </p>
   
   <hr>
-  <h3 >Tools---</h3>
+  <h3 ><samp>Tools---</samp></h3>
   <p align="center"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -51,8 +61,6 @@
 <hr>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanwita-saha&show_icons=true&locale=en&layout=compact&&theme=dracula" alt="dipanwita-saha" /></p>
 <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanwita-saha&show_icons=true&locale=en&&theme=dracula" alt="dipanwita-saha" /></p>
-<br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanwita-saha&&theme=dracula" alt="dipanwita-saha" /></p>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dipanwita-saha&label=Profile%20views&color=0e75b6" alt="dipanwita-saha" /> </p>
+<p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> <img src="https://komarev.com/ghpvc/?username=dipanwita-saha&label=Profile%20views&color=0e75b6" alt="dipanwita-saha" /> </p>
