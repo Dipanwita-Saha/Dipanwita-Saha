@@ -6,7 +6,7 @@
 </h1>
 
  <samp>
-   I'm at the final stage of my bachelor's degree in computer science and engineering at American International University-Bangladesh. I have improved my knowledge of C++, Java, C#, PHP, JavaScript, and other languages. I have a dedication to developing effective and user-friendly software solutions.
+    I have completed a bachelor's degree in Computer Science and Engineering and am currently pursuing a master's degree at American International University-Bangladesh. Currently working as a Salesforce Developer at TwinForce Solutions, I have gained experience in Salesforce Clouds, automation, Apex, Flow, and administration. I have also expanded my knowledge in C++, Java, C#, PHP, JavaScript, and other programming languages, with a focus on developing effective, user-friendly software solutions.
 
 </samp>
 
