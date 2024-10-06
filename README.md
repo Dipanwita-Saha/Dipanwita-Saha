@@ -13,7 +13,7 @@
 <hr>
 <samp>
   
-- 🎪 I’m currently learning **Node JS**
+- 🎪 I’m currently learning **Apex in Salesforce**
 
 - 💬 Ask me about **Java, C#, ASP .Net**
 
